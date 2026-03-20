@@ -1,16 +1,13 @@
-## Hi there 👋
+Hi there! I'm Nargiz
 
-<!--
-**nrrgz/nrrgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
 
-Here are some ideas to get you started:
+🌱 Currently learning: Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech: React, Next.js, JavaScript, TypeScript
+
+📫 Contact: hasanovanargiz42@gmail.com
+
+🚀 Projects
+Krylo: https://krylo-store.vercel.app/
+Student Appeal Manager: https://student-appeal-manager.vercel.app/
