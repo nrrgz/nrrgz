@@ -1,6 +1,6 @@
-Hi there! I'm Nargiz
+# Hi there! I'm Nargiz
 
-💻 About Me
+## 💻 About Me
 
 🌱 Currently learning: Web Development
 
