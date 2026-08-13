@@ -4,7 +4,7 @@
 
 🌱 Currently learning: Web Development
 
-🛠️ Tech: React, Next.js, JavaScript, TypeScript
+🛠️ Tech: React, Next.js, Vue.js, JavaScript, TypeScript
 
 📫 Contact: hasanovanargiz42@gmail.com
 
